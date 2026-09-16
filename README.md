@@ -13,7 +13,7 @@
 | Skill | 作者（X） | 用途 | 适合场景 |
 | --- | --- | --- | --- |
 | [`codex-image-to-eagle`](./codex-image-to-eagle/) | [古一](https://x.com/MANISH1027512) | 将 Codex 生成图片归档到 Eagle，并保存提示词、标签和文件夹信息 | 图片归档、素材管理、提示词复盘 |
-| [`layered-zine-poster`](./layered-zine-poster/) | — | 任意垫图的上层保真、下层纸本艺术转译对照海报 | 人物、景物、建筑、环境、物品、ZINE 海报 |
+| [`zine-library`](./zine-library/) | — | ZINE 风格总目录、样板画廊与独立小 Skill，支持持续扩充 | 看图选风格、按编号调用、收录新 ZINE |
 | [`rare-style-explorer`](./rare-style-explorer/) | [古一](https://x.com/MANISH1027512) | 从 620 条稀有视觉亚风格中组合中文生图提示词 | 风格探索、产品图、人物、海报、场景创意 |
 | [`shan-ze-school`](./shan-ze-school/) | [Richmond](https://x.com/zhurichmond) | 生成新东方神话、山海经异兽、工笔水墨奇幻方向的提示词 | 东方神怪、异兽、国风神话插画 |
 | [`vibeshot-candid-photography`](./vibeshot-candid-photography/) | [古一](https://x.com/MANISH1027512) | 生成真实生活感、偶然抓拍感、非常规机位的人像摄影提示词 | 韩系人像、生活写真、自然遮挡、批量摄影提示词 |
@@ -97,7 +97,7 @@ vsc-skills/
 ├── README.md
 ├── assets/brand/          # VibeShotClub 品牌横图
 ├── codex-image-to-eagle/
-├── layered-zine-poster/
+├── zine-library/         # ZINE 总目录；独立风格位于 styles/
 ├── rare-style-explorer/
 ├── shan-ze-school/
 ├── vibeshot-candid-photography/
